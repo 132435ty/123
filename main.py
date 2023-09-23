@@ -1,4 +1,4 @@
-d = input("введи число:")
-z = float(d) / 3
-print(z)
-1
+d = input("введи первое число:")
+z = input("введи второе число:")
+x =  int(d) + int(z)
+print(x)
